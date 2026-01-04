@@ -51,7 +51,12 @@
   </style>
 </head>
 <body>
-  <div class="container">
+
+<h2 style="text-align:center;color:green">
+job Search Agent Working
+</h2>
+
+<div class="container">
     <h1>Job Search Assistance Agent</h1>
     <p style="text-align:center">Your smart assistant for jobs, skills, resumes & interviews</p><div class="section">
   <h3>Enter Job Role</h3>
@@ -172,4 +177,5 @@ Interview Preparation:
   document.getElementById("result").innerText = output;
 }
 </script></body>
+
 </html>
